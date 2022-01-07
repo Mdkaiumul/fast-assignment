@@ -1,0 +1,111 @@
+h1 {
+    font-size: 200%;
+}
+
+.fexibol-container {
+    display: flex;
+}
+
+.heading-color {
+    color: #ee7171;
+}
+
+.border-color {
+    border-left: 4px solid rgba(206, 65, 65, 0.712);
+}
+
+.images-margin {
+    width: 50%;
+    margin-left: 20%;
+
+}
+
+
+.images-size {
+    width: 50%;
+}
+
+.half-width img {
+    width: 50%;
+
+}
+
+.button-color {
+
+    padding: 2%;
+    border: palegreen;
+    background-color: #F96668;
+    border-radius: 4px;
+}
+
+.my-mission {
+    text-align: center;
+}
+
+.year {
+    color: #FFAD5A;
+}
+
+
+
+.box1 {
+    padding: 4%;
+    background-color: #EDF5F6;
+    margin: 2%;
+    border-radius: 10%;
+    width: 50%;
+    height: 250px;
+
+}
+
+.box2 {
+    padding: 4%;
+    background-color: #FFEEEE;
+    margin: 2%;
+    border-radius: 10%;
+    width: 50%;
+    height: 250px;
+}
+
+.box3 {
+    padding: 4%;
+    background-color: #FFF4D6;
+    margin: 2%;
+    border-radius: 10%;
+    width: 50%;
+    height: 250px;
+}
+
+.background-bener {
+    background-image: url(images/images/shapes/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.benerImg1 {
+    width: 50%;
+    margin-left: 30%;
+
+
+}
+
+.backgrond-add {
+    background-image: url(images/images/shapes/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.hard-workImg {
+    width: 80%;
+    margin: 5%;
+}
+
+.footer {
+    text-align: center;
+    height: 170px;
+    background-color: black;
+    color: white;
+}
